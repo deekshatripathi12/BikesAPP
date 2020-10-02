@@ -1,0 +1,10 @@
+C:\Users\kruna\Documents\COURSE TASK\SEM 2\OBJECT ORIENTED PRORAMMING CONCEPTS\MyBikes\MyBikes\obj\Debug\MyBikes.client.Form1.resources
+C:\Users\kruna\Documents\COURSE TASK\SEM 2\OBJECT ORIENTED PRORAMMING CONCEPTS\MyBikes\MyBikes\obj\Debug\MyBikes.client.LoginForm.resources
+C:\Users\kruna\Documents\COURSE TASK\SEM 2\OBJECT ORIENTED PRORAMMING CONCEPTS\MyBikes\MyBikes\obj\Debug\MyBikes.Properties.Resources.resources
+C:\Users\kruna\Documents\COURSE TASK\SEM 2\OBJECT ORIENTED PRORAMMING CONCEPTS\MyBikes\MyBikes\obj\Debug\MyBikes.csproj.GenerateResource.cache
+C:\Users\kruna\Documents\COURSE TASK\SEM 2\OBJECT ORIENTED PRORAMMING CONCEPTS\MyBikes\MyBikes\obj\Debug\MyBikes.csproj.CoreCompileInputs.cache
+C:\Users\kruna\Documents\COURSE TASK\SEM 2\OBJECT ORIENTED PRORAMMING CONCEPTS\MyBikes\MyBikes\bin\Debug\MyBikes.exe.config
+C:\Users\kruna\Documents\COURSE TASK\SEM 2\OBJECT ORIENTED PRORAMMING CONCEPTS\MyBikes\MyBikes\bin\Debug\MyBikes.exe
+C:\Users\kruna\Documents\COURSE TASK\SEM 2\OBJECT ORIENTED PRORAMMING CONCEPTS\MyBikes\MyBikes\bin\Debug\MyBikes.pdb
+C:\Users\kruna\Documents\COURSE TASK\SEM 2\OBJECT ORIENTED PRORAMMING CONCEPTS\MyBikes\MyBikes\obj\Debug\MyBikes.exe
+C:\Users\kruna\Documents\COURSE TASK\SEM 2\OBJECT ORIENTED PRORAMMING CONCEPTS\MyBikes\MyBikes\obj\Debug\MyBikes.pdb
